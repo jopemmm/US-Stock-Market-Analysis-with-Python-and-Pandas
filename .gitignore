@@ -1,0 +1,21 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Ambiente virtual
+venv/
+.env/
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Playwright MCP
+.playwright-mcp/
+
+# Arquivos duplicados/temporários
+pandaanalize_executed.ipynb
+jupyter_notebook_resultado.png
